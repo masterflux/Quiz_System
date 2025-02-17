@@ -30,12 +30,3 @@ The system follows **object-oriented design principles**, including interface-ba
 #### **Student & Statistics**  
 - `Student` – Maintains student details and quiz history.  
 - `StudentStatistics` – Tracks and analyzes student performance metrics.  
-
-## Getting Started  
-To run the project, ensure you have **Java 11+** installed. Clone the repository and build the project using your preferred IDE or via the command line.  
-
-```sh
-git clone https://github.com/your-repo/quiz-system.git
-cd quiz-system
-javac Main.java
-java Main
